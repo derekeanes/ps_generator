@@ -1,5 +1,11 @@
+#PS_Generator 10-18-23 Derek Eanes
+
+
+#Import modules
+
 import string
 import secrets
+
 
 
 def generate_password(length: int, symbols: bool, uppercase: bool): 
